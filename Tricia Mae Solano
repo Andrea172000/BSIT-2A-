@@ -1,7 +1,11 @@
-<!DOCTYPE Simple Form>
+<!DOCTYPE html>
 <html>
-<body>
-
+<head>
+<style>
+    body{
+        background-color: pink;
+    }
+</style>
 <h2>Forms</h2>
 
 <form action="/action_page.php">
@@ -12,5 +16,5 @@
   <input type="submit" value="Submit">
 </form> 
 
-</body>
+</head>
 </html>
